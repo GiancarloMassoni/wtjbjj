@@ -1,6 +1,9 @@
 .logo {
   object-fit: contain;
-  width: 200px;
-  padding: 10px;
+  padding-left: 50px;
   height: 100px;
+}
+
+.btn-success {
+  margin-left: 20px;
 }
