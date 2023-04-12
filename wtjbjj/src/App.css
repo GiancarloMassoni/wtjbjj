@@ -4,6 +4,27 @@
   height: 100px;
 }
 
-.btn-success {
+a.nav-link {
+  color: white;
+}
+
+a.nav-link:hover {
+  color: rgb(220, 214, 214)
+}
+
+
+
+.navbar-bg {
+  background-color: #377F2F;
+}
+
+.btn.start-btn {
   margin-left: 20px;
+  background-color: white;
+  color: #377F2F;
+}
+
+.btn.start-btn:hover {
+  background-color: rgb(220, 214, 214);
+  color: #377F2F;
 }
